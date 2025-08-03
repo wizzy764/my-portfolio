@@ -1,0 +1,81 @@
+
+**BRIAN NG'ALI**
+Murang’a University of Technology, Kenya
+📱 Phone: +254715736792
+📧 Email: [briangunali@gmail.com]
+---
+
+### 🎓 **Objective**
+
+Motivated and passionate Information Technology student at Murang’a University of Technology, seeking an opportunity to apply my skills in software development, networking, and cybersecurity. Eager to contribute to real-world projects and gain hands-on industry experience.
+
+---
+
+### 🎓 **Education**
+
+**Murang’a University of Technology**
+*Bachelor of Science in Information Technology*
+**Expected Graduation:** \[2027]
+Relevant coursework: Software Engineering, Database Systems, Computer Networks, Web Development, Cybersecurity, Data Structures and Algorithms.
+
+---
+
+### 🛠 **Skills**
+
+* **Programming Languages:** HTML, CSS, JavaScript, Python, Java
+* **Web Development:** React.js, Bootstrap, Tailwind CSS
+* **Database:** MySQL, Firebase
+* **Tools & Platforms:** Git & GitHub, VS Code, Figma
+* **Other:** Networking Concepts, Troubleshooting, IT Support, Agile & Scrum Basics
+
+---
+
+### 💼 **Projects**
+
+**1. Personal Portfolio Website**
+
+* Designed and developed a responsive portfolio using HTML, CSS, and JavaScript.
+* Showcases personal bio, projects, education, and contact information.
+
+**2. Online Voting System (School Project)**
+
+* Created a secure voting application using PHP and MySQL.
+* Implemented admin and user login, vote casting, and result tallying features.
+
+**3. E-Learning Platform Prototype**
+
+* Built a frontend prototype using React.js and Figma mockups.
+* Aimed to facilitate student access to lecture materials and quizzes.
+
+---
+
+### 🧰 **Internships & Experience**
+
+**IT Support Assistant – Murang’a University ICT Department (Attachment)**
+*June 2024 – August 2024*
+
+* Assisted in troubleshooting hardware and software issues on campus.
+* Installed and configured network devices and provided user training.
+
+---
+
+### 🏅 **Certifications**
+
+* Introduction to Cybersecurity – Cisco Networking Academy
+* Web Development Fundamentals – FreeCodeCamp
+* Git & GitHub Crash Course – Coursera
+
+---
+
+### 💬 **Languages**
+
+* English – Fluent
+* Kiswahili – Fluent
+
+---
+
+### 📄 **References**
+
+Available upon request.
+
+
